@@ -166,14 +166,6 @@ Visual Studio Code ist eine Software auf welche man verschiedene Programmier und
 - vscode-pdf Extension 
 
 # Sicherheit
-**K4: Sicherheitsaspekte sind implementiert**
-
--   Firewall eingerichtet inkl. Rules
--   Reverse-Proxy eingerichtet
--   Benutzer- und Rechtevergabe ist eingerichtet
--   Zugang mit SSH-Tunnel abgesichert
--   Sicherheitsmaßnahmen sind dokumentiert
--   Projekt mit Git und Mark Down dokumentiert
  
 SSH Key 
 - 
