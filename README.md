@@ -121,6 +121,9 @@ Mit diesem Befehl wird ein Verzeichnis und das Vagrant File erstellt
       $ cd Wohin\auch\immer
       $ vagrant init ubuntu/xenial64
 
+
+
+
 ![enter image description here](https://raw.githubusercontent.com/naiarabarzola1/Modul300/master/vagrant%20init.PNG)
 
 2. VMs erstellen
@@ -129,6 +132,8 @@ Wechsel zum Verzeichnis wo das Vagrantfile erstellt wurde
 
      $ cd Zum\Vagrantfile						#Wechseln zum ensprechenden Verzeichnis
      $ vagrant up --provider virtualbox			#Erstellen der VM
+
+
 
 ![https://drive.google.com/file/d/1m3DBeN-eNYBEVp2X0XyGFRG8XZIzRl19/view?usp=sharing](https://raw.githubusercontent.com/naiarabarzola1/Modul300/master/vagrant%20up.PNG)
 
