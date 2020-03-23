@@ -1,7 +1,5 @@
 # Modul 300 LB02
 
-Vowort
--
 Das Thema in diesem Modul ist *plattformübergreifende Dienste in ein Netzwerk integrieren*
   Wir lernen wie man Programme ausführt die nicht auf dem eigenen Rechnern installiert sind sonder auf einem anderen Rechner, der aus der Ferne (remote) aufgerufen wird.  
 
