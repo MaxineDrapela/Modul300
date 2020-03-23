@@ -156,9 +156,11 @@ Die Maschine ist nun auch in der Virtual Box sichtbar
 
 ![Meine Vagrant Maschine](https://raw.githubusercontent.com/naiarabarzola1/Modul300/master/Virtual%20Box.PNG)
 
- Visual Studio Code
+ l Studio Code
 - 
   ![Bildergebnis für visual studio code logo](https://germanpowershell.com/wp-content/uploads/2019/04/visualstudio_code-card.png)
+Visual 
+
 Visual Studio Code ist eine Software auf welche man verschiedene Programmier und Scriptsprachen editieren kann. Es werden sehr viele Datei-Typen unterstützt, die durch Plug Ins erweitert werden können. Wir müssen folgende Plug Ins installieren
 
 - Markdown All in One 
