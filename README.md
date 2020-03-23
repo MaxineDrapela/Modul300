@@ -21,21 +21,18 @@ Github bietet allen  Benutzer plattformübergreifende Dienste die nicht auf dem 
 -   Persönlicher Wissenstand im Bezug auf die wichtigsten Themen sind dokumentiert
 -   Wichtige Lernschritte sind dokumentiert
 
-
-
-
-
-
 Github Account
 -
-4. Repositories hochladen
+1. Repositories erstellen
+
+Auf der Website erstellt man ein neues Projekt und darunter auch ein Repository
 
 Diesen Befehl exekutiert man, wenn man offline Änderungen gemacht hat und diese dann wieder hochladen möchte.
 
      $ git commit -m "Mein Kommentar"
      $ git push
 
-5. SSH-Key erstellen
+2. SSH-Key erstellen
 
 Man muss Git/Bash  ([https://git-scm.com/download/win](https://git-scm.com/download/win)) installieren um dann darauf Befehle auszuführen. 
 
