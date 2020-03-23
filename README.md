@@ -1,4 +1,4 @@
-# Modul 300 LB02
+# Modul 300 - LB02
 
 Das Thema in diesem Modul ist *plattformübergreifende Dienste in ein Netzwerk integrieren*
   Wir lernen wie man Programme ausführt die nicht auf dem eigenen Rechnern installiert sind sonder auf einem anderen Rechner, der aus der Ferne (remote) aufgerufen wird.  
@@ -159,7 +159,6 @@ Die Maschine ist nun auch in der Virtual Box sichtbar
  l Studio Code
 - 
   ![Bildergebnis für visual studio code logo](https://germanpowershell.com/wp-content/uploads/2019/04/visualstudio_code-card.png)
-Visual 
 
 Visual Studio Code ist eine Software auf welche man verschiedene Programmier und Scriptsprachen editieren kann. Es werden sehr viele Datei-Typen unterstützt, die durch Plug Ins erweitert werden können. Wir müssen folgende Plug Ins installieren
 
