@@ -128,7 +128,7 @@ Mit diesem Befehl wird ein Verzeichnis und das Vagrant File erstellt
 
 2. VMs erstellen
 
-Wechsel zum Verzeichnis wo das Vagrantfile erstellt wurde
+Wechsle zum Verzeichnis wo das Vagrantfile erstellt wurde
 
      $ cd Zum\Vagrantfile						#Wechseln zum ensprechenden Verzeichnis
      $ vagrant up --provider virtualbox			#Erstellen der VM
